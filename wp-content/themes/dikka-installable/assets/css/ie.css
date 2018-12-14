@@ -1,0 +1,337 @@
+.mc4wp-form #mc4wp_email{
+	padding-bottom: 16px !important;
+}
+.navbar-default.default.tdark #s_top {
+	background: url(../images/sprite.png) -418px -121px;
+}
+.navbar-default.default.slight.nav-shrink #s_top, .navbar-default.default.tLight.nav-shrink #s_top{background-image: url(../images/sprite.png) -185px -136px !important;}
+.navbar-default.default.slight.nav-shrink #s_top:focus, .navbar-default.default.tLight.nav-shrink #s_top:focus{background-image: url(../images/sprite.png) -185px -136px !important;background-color: rgba(255,255,255,1);}
+.nav-shrink #s_top:focus, .nav-shrink #s_top, .navbar.nav-shrink{height: 58px;}
+.slight.nav-shrink #s_top:focus{background-image: url(../images/sprite.png) -185px -136px !important;background-color:#f8f8f8;}
+
+.navbar-default.default.sdark.nav-shrink #s_top, .navbar-default.default.tdark.nav-shrink #s_top{background-image: url(../images/sprite.png) -418px -136px;}
+
+.navbar-default.default.flfull.nav-shrink #s_top, .flfull.nav-shrink #s_top:focus{background-image: url(../images/sprite.png) -185px -136px !important;}
+.navbar-default.default.fdfull.nav-shrink #s_top, .fdfull.nav-shrink #s_top:focus{background-image: url(../images/sprite.png) -416px -136px !important;}
+
+.tdark.nav-shrink #s_top:focus{background-image: url(../images/sprite.png) -418px -136px;background-color: rgba(24,24,24,0.99);}
+
+.navbar-default.default.sdark.nav-shrink #s_top, .navbar-default.default.tdark.nav-shrink #s_top{
+background-image: url(../images/sprite.png) -418px -136px !important;}
+
+.navbar-default.default.slight #s_top{
+	background-image: url(../images/sprite.png) -185px -122px;
+}
+
+.img-container{border: none !important;}
+.flexslider .slides .testimonials-slide-content img{width: 80px;height: 80px;}
+.slight #s_top:focus {
+	border: none !important;
+	font-size: 11px;
+	background-image: url(../images/sprite.png) -185px -122px !important;
+	background-color: #f8f8f8;
+	color: #343434;
+}
+
+.navbar-default.default.tLight #s_top{
+	background-image: url(../images/sprite.png) -185px -122px;
+	color: #343434;
+}
+
+.tLight #s_top:focus {
+	background-image: url(../images/sprite.png) -185px -122px !important;
+	background-color: rgba(255,255,255,0.92);
+}
+.tdark.default.navbar-default.nav-shrink #s_top {
+	background: url(../images/sprite.png) -418px -136px !important;
+}
+.flexslider .slides .img-container{border: none !important;}
+.flexslider .slides .img-container img{
+	width: 80px !important;
+	height: 80px !important;
+}
+
+
+.tp-caption.medium_bold_white {
+	font-size: 22px;
+	line-height: 36px;
+	font-weight: 700;
+	font-family: "Open Sans";
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+	letter-spacing: normal;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+
+.tp-caption.small_light_white {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 300;
+	font-family: "Open Sans";
+	color: #ffffff;
+	text-decoration: none;
+	background-color: transparent;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+
+.tp-caption.dikka_text_dark {
+	color: #212121;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,255,255);
+	border-style: none;
+}
+
+.tp-caption.dikka_big_dark {
+	font-size: 50px;
+	line-height: 60px;
+	font-weight: 600;
+	font-family: Raleway;
+	color: #212121;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+
+.tp-caption.dikka_2xtext_dark {
+	color: #212121;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(33,33,33);
+	border-style: none;
+}
+
+.tp-caption.dikka_text_white {
+	color: #fff;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,255,255);
+	border-style: none;
+}
+
+.tp-caption.dikka_big_white {
+	font-size: 50px;
+	line-height: 60px;
+	font-weight: 600;
+	font-family: Raleway;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+.tp-caption.dikka_2xtext_white {
+	color: #fff;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,255,255);
+	border-style: none;
+}
+
+.tp-caption.medium_light_white {
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: 300;
+	font-family: "Open Sans";
+	color: rgb(255,255,255);
+	text-decoration: none;
+	background-color: transparent;
+	padding: 0px;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+
+.tp-caption.dikka-large_text-dark {
+	color: #343434;
+	font-weight: 700;
+	font-size: 33px;
+	line-height: 40px;
+	font-family: "Open Sans";
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	letter-spacing: -0.5px !important;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(52,52,52);
+	border-style: none;
+}
+
+.tp-caption.dikka-medium_light_dark {
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 200;
+	font-family: "Open Sans";
+	color: #343434;
+	text-decoration: none;
+	background-color: transparent;
+	padding: 0px 0px 0px 0px;
+	border-width: 0px;
+	border-color: rgb(52,52,52);
+	border-style: none;
+}
+
+.tp-caption.dikka-small_text-dark {
+	color: #444;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	font-family: Open Sans;
+	margin: 0px;
+	white-space: nowrap;
+	background-color: transparent;
+	text-decoration: none;
+	border-width: 0px;
+	border-color: rgb(68,68,68);
+	border-style: none;
+}
+
+.tp-caption.Dikka-handwrited {
+	font-size: 68px;
+	font-family: Georgia;
+	font-style: italic;
+	color: rgb(52,52,52);
+	text-decoration: none;
+	text-shadow: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(56,56,56);
+	border-style: none;
+}
+
+.tp-caption.Dikka-handwrited-small {
+	font-size: 33px;
+	font-family: Georgia;
+	font-style: italic;
+	color: rgb(0,0,0);
+	text-decoration: none;
+	text-shadow: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(56,56,56);
+	border-style: none;
+}
+.Dikka-handwrited-small {
+	font-size: 33px;
+	font-family: Georgia;
+	font-style: italic;
+	color: rgb(0,0,0);
+	text-decoration: none;
+	text-shadow: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(56,56,56);
+	border-style: none;
+}
+
+.tp-caption.dikka_2xtext_white {
+	color: #fff;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,255,255);
+	border-style: none;
+}
+
+.tp-caption.dikka_big_white-ArhitectureTitle {
+	font-size: 80px;
+	line-height: 80px;
+	font-weight: 600;
+	font-family: Arial;
+	color: #fff;
+	text-decoration: none;
+	text-transform: capitalize;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,214,88);
+	border-style: none;
+}
+.dikka_2xtext_white {
+	color: #fff;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 31px;
+	font-family: Raleway;
+	margin: 0px;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(255,255,255);
+	border-style: none;
+}
+.tp-caption.large2x_bold_white {
+font-size: 90px;
+line-height: 85px;
+font-weight: 800;
+font-family: Raleway;
+color: #ffffff;
+text-decoration: none;
+letter-spacing: 0px;
+text-align: center;
+background-color: transparent;
+border-width: 0px;
+border-color: rgb(255,214,88);
+border-style: none;
+}
+.tp-caption.medium_light_white-22 {
+font-size: 20px;
+line-height: 36px;
+font-weight: 700;
+font-family: "Open Sans";
+color: #ffffff;
+text-decoration: none;
+padding: 0px 0px 0px 0px;
+letter-spacing: 0px;
+background-color: transparent;
+border-width: 0px;
+border-style: none;
+}

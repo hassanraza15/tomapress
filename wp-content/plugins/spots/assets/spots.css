@@ -1,0 +1,40 @@
+/* spots widget admin css */
+
+.widget-inside .mceEditor table.mceLayout,
+.context-content-widget-admin .mceEditor table.mceLayout {
+	background-color: #fff;
+}
+
+.spot-media-buttons a {
+	cursor: pointer;
+}
+
+.widget-inside .text-input label {
+	display: block;
+}
+
+.widget-inside .mceEditor table.mceLayout {
+	background-color: #fff;
+}
+
+.widget-inside .wp-editor-wrap {
+    background: #fff;
+    margin-bottom: 10px;
+	clear:both;
+}
+
+.widget-inside .wp-editor-wrap.active {
+    border: 1px solid #dfdfdf;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.widget-inside .code-toggle,
+.widget-inside .wp-media-buttons {
+	min-height: 40px;
+}
+
+.widget-inside .code-toggle {
+	float: right;
+}

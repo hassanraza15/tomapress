@@ -1,0 +1,1 @@
+<p class="small-pwide"><?php echo wp_kses_post($instance['information']) ?></p>

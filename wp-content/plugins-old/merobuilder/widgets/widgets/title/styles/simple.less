@@ -1,0 +1,41 @@
+/*
+Name: Elano
+Template: simple
+Author: Sunil Chaulagain
+*/
+
+@import "../../../less/mixins";
+@letter_spacing: 2px;
+@text_transform: uppercase;
+@font_weight: 300;
+
+& {
+
+	h2,h3,h4,h5,h6,h7 {
+		
+		text-transform: @text_transform;
+		letter-spacing: @letter_spacing;			
+	}
+	
+
+        
+        
+	&.align-left {
+		text-align: left;
+	}
+
+	&.align-right {
+		text-align: right;
+	}
+
+	&.align-center {
+		text-align: center;
+	}
+
+	&.align-justify {
+		a {
+			display: block;
+		}
+	}
+
+}

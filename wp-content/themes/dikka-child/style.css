@@ -1,0 +1,14 @@
+/*
+Theme Name: Dikka Child
+Description: Child theme for the Dikka Theme
+Author: UX-Qode
+Template: dikka-installable
+*/
+
+
+.page-id-2340 .nav.navbar-nav li:nth-child(1), .page-id-2340 .nav.navbar-nav li:nth-child(2) {
+    display: none;
+}
+.page-id-2220 .nav.navbar-nav li:nth-child(1), .nav.navbar-nav li:nth-child(2) {
+    display: none;
+}

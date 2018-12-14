@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spots\n"
+"POT-Creation-Date: 2014-07-21 15:16-0000\n"
+"PO-Revision-Date: 2014-07-21 15:25-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cara Fischer\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: icit-spots.php:27
+msgid "Spots Settings"
+msgstr "Spots Einstellungen"
+
+#: icit-spots.php:28
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: icit-spots.php:106
+msgid "Cache Time (seconds)"
+msgstr "Cachzeit (in Sekunden)"
+
+#: icit-spots.php:107
+msgid "NoIndex on Single Spot Pages?"
+msgstr "NoIndex auf allen Spot Einzelseiten?"
+
+#: icit-spots.php:114
+msgid ""
+"Enter an amount of time in seconds to cache spots for. Set to 0 to turn the "
+"caching off, recommeneded if you use a caching plugin."
+msgstr ""
+"Geben Sie die Cache-Dauer (in Sekunden) der Spots ein. Setzen Sie die Cache-"
+"Dauer auf 0, um das Cachen auszuschalten. (Dies wird Ihnen geraten, falls "
+"Sie einen Cache-Plugin benutzen!)"
+
+#: icit-spots.php:120
+msgid ""
+"Each Spot has a dedicated page, allow these pages to be indexed by search "
+"engines?"
+msgstr ""
+"Jeder Spot verfügt über eine zugeordnete Seite, erlauben Sie den "
+"Suchmaschinen diese Webseite zu indexieren."
+
+#: icit-spots.php:174
+msgctxt "post type name"
+msgid "Spots"
+msgstr "Spots"
+
+#: icit-spots.php:175
+msgctxt "Singular post type name"
+msgid "Spot"
+msgstr "Spot"
+
+#: icit-spots.php:176
+msgctxt "post type menu to add new item"
+msgid "Add New"
+msgstr ""
+
+#: icit-spots.php:177
+msgid "Add New Spot"
+msgstr "Neuer Spot hinzufügen "
+
+#: icit-spots.php:178 icit-spots.php:536
+msgid "Edit Spot"
+msgstr "Spot bearbeiten"
+
+#: icit-spots.php:179
+msgid "New Spot"
+msgstr "Neuer Spot"
+
+#: icit-spots.php:180
+msgid "View Spot"
+msgstr "Siehe Spot"
+
+#: icit-spots.php:181
+msgid "Search Spots"
+msgstr "Suche Spots"
+
+#: icit-spots.php:182
+msgid "No Spots found"
+msgstr "Keine Spots gefunden"
+
+#: icit-spots.php:183
+msgid "No Spots found in Trash"
+msgstr "Keine Spots im Papierkorb gefunden"
+
+#: icit-spots.php:185
+msgid "Spots"
+msgstr "Spots"
+
+#: icit-spots.php:267
+msgid "Save"
+msgstr "Sichern"
+
+#: icit-spots.php:268 icit-spots.php:285 icit-spots.php:1056
+msgid "Template"
+msgstr "Vorlage"
+
+#: icit-spots.php:269
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: icit-spots.php:287 icit-spots.php:727 icit-spots.php:1058
+msgid "Default Template"
+msgstr "Standartvorlage"
+
+#: icit-spots.php:432
+msgid "Enter the destination URL"
+msgstr "Geben Sie die Ziel-Adresse ein"
+
+#: icit-spots.php:434
+msgid "URL"
+msgstr "Login Adresse (URL)"
+
+#: icit-spots.php:437
+msgid "Title"
+msgstr "Titel"
+
+#: icit-spots.php:440
+msgid "Open link in a new window/tab"
+msgstr "Link in neuem Fenster oder Tab öffnen"
+
+#: icit-spots.php:444
+msgid "Or link to existing content"
+msgstr "Oder verlinken Sie auf bestehende Inhalte"
+
+#: icit-spots.php:448
+msgid "Search"
+msgstr "Suchen"
+
+#: icit-spots.php:460
+msgid "No search term specified. Showing recent items."
+msgstr ""
+"Es wurde kein Suchbegriff angegeben. Es werden die aktuellsten Inhalte "
+"angezeigt."
+
+#: icit-spots.php:470
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: icit-spots.php:473
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: icit-spots.php:677
+msgid "Insert Spot."
+msgstr "Spot einfügen."
+
+#: icit-spots.php:695
+msgid "Current:"
+msgstr "Aktuell:"
+
+#: icit-spots.php:696
+msgid "(None selected)"
+msgstr "(Keine ausgewählt)"
+
+#: icit-spots.php:700
+msgid "Recent Spots."
+msgstr "Letzte Spots"
+
+#: icit-spots.php:714
+msgid "Search for spots"
+msgstr "Nach Spots suchen"
+
+#: icit-spots.php:715
+msgid "Search:"
+msgstr "Suche:"
+
+#: icit-spots.php:723
+msgid "Choose a template"
+msgstr "Vorlage aussuchen"
+
+#: icit-spots.php:725
+msgid "Template:"
+msgstr "Vorlage:"
+
+#: icit-spots.php:735 icit-spots.php:740
+msgid "Create a new spot."
+msgstr "Neuer Spot erstellen."
+
+#: icit-spots.php:739
+msgid "You don't have any spots to choose from yet."
+msgstr "Sie haben noch keine Spots zur Auswahl."
+
+#: icit-spots.php:746
+msgid "Insert"
+msgstr "Einsetzen"
+
+#: icit-spots.php:750
+msgid "Close"
+msgstr "Schließen"
+
+#: icit-spots.php:782
+msgid "Spot widget. Create or choose an existing spot to display."
+msgstr ""
+"Spot Widget. Erstellen Sie oder wählen Sie einen vorhandenen Spot aus zur "
+"Darstellung."
+
+#: icit-spots.php:784
+msgid "Spot"
+msgstr "Spot"
+
+#: icit-spots.php:825
+msgid "Use as featured image"
+msgstr "Als Beitragsbils benutzen"
+
+#: icit-spots.php:826
+msgid "Saving..."
+msgstr "Sichern..."
+
+#: icit-spots.php:827
+msgid "Could not set that as the thumbnail image. Try a different attachment."
+msgstr ""
+"Das Bild konnte nicht als Miniaturbild gesetzt werden. Versuchen Sie es mit "
+"einem anderen."
+
+#: icit-spots.php:828
+msgid "Done"
+msgstr "Fertig"
+
+#: icit-spots.php:999
+msgid "Title:"
+msgstr "Titel:"
+
+#: icit-spots.php:1007
+msgid "Create a new spot"
+msgstr "Neuer Spot erschaffen"
+
+#: icit-spots.php:1008
+msgid "(You must enter a title first)"
+msgstr "(Titel zuerst eingeben!)"
+
+#: icit-spots.php:1017
+msgid "Or select an existing "
+msgstr "Oder vorhandener Spot auswählen "
+
+#: icit-spots.php:1017
+msgid "Spot:"
+msgstr "Spot:"
+
+#: icit-spots.php:1019
+msgid "None"
+msgstr "Keine"
+
+#: icit-spots.php:1030
+msgid "Visual"
+msgstr "Visuell"
+
+#: icit-spots.php:1031
+msgid "Text"
+msgstr "HTML"
+
+#: icit-spots.php:1067
+msgid "Go to the full editor for this spot"
+msgstr "Öffnen Sie den ganzen Editor des Spots"
+
+#: icit-spots.php:1094 icit-spots.php:1095
+msgid "Set featured image"
+msgstr "Beitragsbild festlegen"
+
+#: icit-spots.php:1111
+msgid "Remove featured image"
+msgstr "Beitragsbild entfernen"
+
+#: icit-spots.php:1233
+#, php-format
+msgid "Click here to edit the %s spot."
+msgstr "Klicken Sie hier, um den %s des Spots zu bearbeiten "
+
+#: includes/icit-plugin.php:131 includes/icit-plugin.php:425
+msgid "You do not have permission to use this page."
+msgstr "Sie haben nicht die erforderlichen Rechte, um diese Seite zu benutzen."
+
+#: includes/icit-plugin.php:166 includes/icit-plugin.php:453
+msgid "Visit plugin page"
+msgstr "Plugins besuchen"

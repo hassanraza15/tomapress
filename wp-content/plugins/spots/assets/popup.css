@@ -1,0 +1,129 @@
+html, body{background-color:#fff;}
+.widefat {width:100%}
+.alignleft{float:left;clear:left}
+.alignright{float:right;clear:right}
+form{position:relative;padding-bottom:40px;min-height:148px}
+.buttons{position:absolute;bottom:8px;left:0;right:0;height:24px;overflow:hidden}
+
+#spot_selector {
+	border: solid 1px #dfdfdf;
+	padding: 0;
+	height: 200px;
+	overflow: auto;
+	margin-bottom: 1em;
+}
+
+#spot_selector ul {
+	margin: 0 0 10px;
+	padding: 0;
+	border-bottom: solid 1px #f1f1f1
+}
+#spot_templates,
+#spot_search {
+	margin-bottom: 1em;
+	border-bottom: solid 1px #f1f1f1;
+	padding-bottom: 1em;
+}
+
+#insert_spot .acResults{
+	background-color: #fff;
+	border: solid 1px #666;
+	border-width: 0 1px 1px 1px;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	max-height: 150px;
+	overflow: auto;
+}
+
+.acResults ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: block;
+	padding: 5px 10px;
+	margin-bottom: 0;
+	border-top: solid 1px #F1F1F1;
+	cursor: pointer;
+	list-style-type: none;
+}
+
+li.no-click{
+	cursor: default;
+}
+
+li.recent {
+	font-weight: bold;
+}
+
+li.current {
+	background-color: #FFFFE0 !important;
+	font-weight:bold;
+}
+
+label {
+	width: 70px;
+	float: left;
+	padding: 5px 0;
+	text-align: right;
+}
+
+
+.query-notice {
+	padding: 5px 10px;
+	font-family: sans-serif;
+	color: #666;
+	font-size: 12px;
+}
+
+#spot_template {
+	line-height: 2em;
+	height: 2em;
+	margin-bottom: 1em;
+	border: solid 1px #dfdfdf;
+	display: block;
+	width: 385px;
+	margin-left: 80px
+}
+
+li:nth-child(2n+1),
+.alternate, .alt {
+	background-color: #fcfcfc;
+}
+#spot_id_drop_search {
+	margin-bottom: 3px;
+	border: solid 1px #dfdfdf;
+	display: block;
+	width: 365px;
+	padding: 3px 10px;
+	margin-left: 80px
+}
+
+.howto {
+	font-style: italic;
+	display: block;
+	font-family: sans-serif;
+	color: #666;
+	margin: 3px;
+	font-size: 12px;
+}
+
+#current_item {
+	margin-bottom: 1em;
+	padding: 20px 0 0;
+}
+
+#current_item_title {
+	border: solid 1px #DFDFDF;
+	padding: 5px 10px;
+	margin: 0 0 0 80px;
+}
+
+.label {
+	width: 70px;
+	float: left;
+	padding: 5px 0;
+	text-align: right;
+}
